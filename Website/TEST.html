@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Disease Search</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Disease Search</h1>
+        <input type="text" id="searchInput" placeholder="Enter DOID">
+        <button onclick="search()">Search</button>
+        <div id="searchResults"></div>
+        <div id="statistics"></div>
+    </div>
+
+    <script src="scripts.js"></script>
+
+    <script>
+        function search() {
+    const searchInput = document.getElementById('searchInput').value;
+
+    // Send search request to backend
+    fetch(`/search?keyword=${searchInput}`)
+        .then(response => response.json())
+        .then(data => {
+            // Display search results
+            const searchResultsDiv = document.getElementById('searchResults');
+            searchResultsDiv.innerHTML = '';
+
+            if (data.results.length === 0) {
+                searchResultsDiv.innerHTML = 'No results found.';
+            } else {
+                data.results.forEach(result => {
+                    const resultDiv = document.createElement('div');
+                    resultDiv.textContent = `Gene Name: ${result.geneName}, Disease Name: ${result.diseaseName}, Z-Score: ${result.zScore}, Confidence Score: ${result.confidenceScore}, URL: ${result.url}`;
+                    searchResultsDiv.appendChild(resultDiv);
+                });
+            }
+
+            // Display statistics
+            const statisticsDiv = document.getElementById('statistics');
+            statisticsDiv.innerHTML = `Total results: ${data.totalResults}`;
+        })
+        .catch(error => console.error('Error:', error));
+}
+
+    </script>
+</body>
+</html>

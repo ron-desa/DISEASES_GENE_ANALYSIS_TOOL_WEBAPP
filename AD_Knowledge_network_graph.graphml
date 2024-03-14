@@ -1,0 +1,349 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d2" for="node" attr.name="disease_name" attr.type="string" />
+  <key id="d1" for="node" attr.name="gene_name" attr.type="string" />
+  <key id="d0" for="node" attr.name="node_type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="ENSP00000012443">
+      <data key="d0">gene</data>
+      <data key="d1">PPP5C</data>
+    </node>
+    <node id="DOID:10652">
+      <data key="d0">disease</data>
+      <data key="d2">Alzheimer's disease</data>
+    </node>
+    <node id="ENSP00000222330">
+      <data key="d0">gene</data>
+      <data key="d1">GSK3A</data>
+    </node>
+    <node id="ENSP00000236671">
+      <data key="d0">gene</data>
+      <data key="d1">CTSD</data>
+    </node>
+    <node id="ENSP00000252486">
+      <data key="d0">gene</data>
+      <data key="d1">APOE</data>
+    </node>
+    <node id="ENSP00000255040">
+      <data key="d0">gene</data>
+      <data key="d1">APCS</data>
+    </node>
+    <node id="ENSP00000260197">
+      <data key="d0">gene</data>
+      <data key="d1">SORL1</data>
+    </node>
+    <node id="ENSP00000260408">
+      <data key="d0">gene</data>
+      <data key="d1">ADAM10</data>
+    </node>
+    <node id="ENSP00000263094">
+      <data key="d0">gene</data>
+      <data key="d1">ABCA7</data>
+    </node>
+    <node id="ENSP00000284981">
+      <data key="d0">gene</data>
+      <data key="d1">APP</data>
+    </node>
+    <node id="ENSP00000315130">
+      <data key="d0">gene</data>
+      <data key="d1">CLU</data>
+    </node>
+    <node id="ENSP00000323929">
+      <data key="d0">gene</data>
+      <data key="d1">A2M</data>
+    </node>
+    <node id="ENSP00000324806">
+      <data key="d0">gene</data>
+      <data key="d1">GSK3B</data>
+    </node>
+    <node id="ENSP00000326366">
+      <data key="d0">gene</data>
+      <data key="d1">PSEN1</data>
+    </node>
+    <node id="ENSP00000340820">
+      <data key="d0">gene</data>
+      <data key="d1">MAPT</data>
+    </node>
+    <node id="ENSP00000345672">
+      <data key="d0">gene</data>
+      <data key="d1">CTSB</data>
+    </node>
+    <node id="ENSP00000354687">
+      <data key="d0">gene</data>
+      <data key="d1">MT-ND1</data>
+    </node>
+    <node id="ENSP00000355046">
+      <data key="d0">gene</data>
+      <data key="d1">MT-ND2</data>
+    </node>
+    <node id="ENSP00000355747">
+      <data key="d0">gene</data>
+      <data key="d1">PSEN2</data>
+    </node>
+    <node id="ENSP00000356607">
+      <data key="d0">gene</data>
+      <data key="d1">RALGPS2</data>
+    </node>
+    <node id="ENSP00000363827">
+      <data key="d0">gene</data>
+      <data key="d1">HSPG2</data>
+    </node>
+    <node id="ENSP00000377195">
+      <data key="d0">gene</data>
+      <data key="d1">DBN1</data>
+    </node>
+    <node id="ENSP00000381448">
+      <data key="d0">gene</data>
+      <data key="d1">CST3</data>
+    </node>
+    <node id="ENSP00000385675">
+      <data key="d0">gene</data>
+      <data key="d1">IL6</data>
+    </node>
+    <node id="ENSP00000406022">
+      <data key="d0">gene</data>
+      <data key="d1">UNC5C</data>
+    </node>
+    <node id="ENSP00000450540">
+      <data key="d0">gene</data>
+      <data key="d1">SERPINA3</data>
+    </node>
+    <node id="ENSP00000500990">
+      <data key="d0">gene</data>
+      <data key="d1">SNCA</data>
+    </node>
+    <node id="DOID:0014667">
+      <data key="d0">disease</data>
+      <data key="d2">Disease of metabolism</data>
+    </node>
+    <node id="DOID:1289">
+      <data key="d0">disease</data>
+      <data key="d2">Neurodegenerative disease</data>
+    </node>
+    <node id="DOID:331">
+      <data key="d0">disease</data>
+      <data key="d2">Central nervous system disease</data>
+    </node>
+    <node id="DOID:0081062">
+      <data key="d0">disease</data>
+      <data key="d2">Diabetes</data>
+    </node>
+    <node id="DOID:2978">
+      <data key="d0">disease</data>
+      <data key="d2">Carbohydrate metabolic disorder</data>
+    </node>
+    <node id="DOID:0050177">
+      <data key="d0">disease</data>
+      <data key="d2">Monogenic disease</data>
+    </node>
+    <node id="DOID:0050737">
+      <data key="d0">disease</data>
+      <data key="d2">Autosomal recessive disease</data>
+    </node>
+    <node id="DOID:0050739">
+      <data key="d0">disease</data>
+      <data key="d2">Autosomal genetic disease</data>
+    </node>
+    <node id="AmyCo:16">
+      <data key="d0">disease</data>
+      <data key="d2">Localized insulin-derived Amyloidosis</data>
+    </node>
+    <node id="AmyCo:22">
+      <data key="d0">disease</data>
+      <data key="d2">Apolipoprotein A-II associated Amyloidosis</data>
+    </node>
+    <node id="AmyCo:23">
+      <data key="d0">disease</data>
+      <data key="d2">AH Amyloidosis</data>
+    </node>
+    <node id="AmyCo:24">
+      <data key="d0">disease</data>
+      <data key="d2">AHL Amyloidosis</data>
+    </node>
+    <node id="AmyCo:25">
+      <data key="d0">disease</data>
+      <data key="d2">Apolipoprotein C-II associated Amyloidosis</data>
+    </node>
+    <node id="AmyCo:17">
+      <data key="d0">disease</data>
+      <data key="d2">Apolipoprotein A-I associated Amyloidosis</data>
+    </node>
+    <node id="DOID:0050155">
+      <data key="d0">disease</data>
+      <data key="d2">Sensory system disease</data>
+    </node>
+    <node id="AmyCo:33">
+      <data key="d0">disease</data>
+      <data key="d2">Wild type beta-2-microglobulin-related Amyloidosis</data>
+    </node>
+    <node id="DOID:17">
+      <data key="d0">disease</data>
+      <data key="d2">Musculoskeletal system disease</data>
+    </node>
+    <node id="DOID:0050700">
+      <data key="d0">disease</data>
+      <data key="d2">Cardiomyopathy</data>
+    </node>
+    <node id="DOID:0060036">
+      <data key="d0">disease</data>
+      <data key="d2">Intrinsic cardiomyopathy</data>
+    </node>
+    <node id="DOID:0050156">
+      <data key="d0">disease</data>
+      <data key="d2">Idiopathic pulmonary fibrosis</data>
+    </node>
+    <node id="DOID:0050161">
+      <data key="d0">disease</data>
+      <data key="d2">Lower respiratory tract disease</data>
+    </node>
+    <node id="DOID:0050890">
+      <data key="d0">disease</data>
+      <data key="d2">Synucleinopathy</data>
+    </node>
+    <node id="DOID:4">
+      <data key="d0">disease</data>
+      <data key="d2">Disease</data>
+    </node>
+    <node id="DOID:680">
+      <data key="d0">disease</data>
+      <data key="d2">Tauopathy</data>
+    </node>
+    <node id="DOID:0060536">
+      <data key="d0">disease</data>
+      <data key="d2">Mitochondrial complex I deficiency</data>
+    </node>
+    <node id="DOID:0080000">
+      <data key="d0">disease</data>
+      <data key="d2">Muscular disease</data>
+    </node>
+    <node id="AmyCo:29">
+      <data key="d0">disease</data>
+      <data key="d2">AA Amyloidosis</data>
+    </node>
+    <node id="AmyCo:8">
+      <data key="d0">disease</data>
+      <data key="d2">Immunoglobulin light chain (AL) amyloidosis</data>
+    </node>
+    <node id="DOID:0060005">
+      <data key="d0">disease</data>
+      <data key="d2">Autoimmune disease of endocrine system</data>
+    </node>
+    <node id="DOID:0060032">
+      <data key="d0">disease</data>
+      <data key="d2">Autoimmune disease of musculoskeletal system</data>
+    </node>
+    <node id="DOID:0080001">
+      <data key="d0">disease</data>
+      <data key="d2">Bone disease</data>
+    </node>
+    <edge source="ENSP00000012443" target="DOID:10652" />
+    <edge source="ENSP00000012443" target="DOID:0014667" />
+    <edge source="ENSP00000012443" target="DOID:1289" />
+    <edge source="ENSP00000012443" target="DOID:331" />
+    <edge source="DOID:10652" target="ENSP00000222330" />
+    <edge source="DOID:10652" target="ENSP00000236671" />
+    <edge source="DOID:10652" target="ENSP00000252486" />
+    <edge source="DOID:10652" target="ENSP00000255040" />
+    <edge source="DOID:10652" target="ENSP00000260197" />
+    <edge source="DOID:10652" target="ENSP00000260408" />
+    <edge source="DOID:10652" target="ENSP00000263094" />
+    <edge source="DOID:10652" target="ENSP00000284981" />
+    <edge source="DOID:10652" target="ENSP00000315130" />
+    <edge source="DOID:10652" target="ENSP00000323929" />
+    <edge source="DOID:10652" target="ENSP00000324806" />
+    <edge source="DOID:10652" target="ENSP00000326366" />
+    <edge source="DOID:10652" target="ENSP00000340820" />
+    <edge source="DOID:10652" target="ENSP00000345672" />
+    <edge source="DOID:10652" target="ENSP00000354687" />
+    <edge source="DOID:10652" target="ENSP00000355046" />
+    <edge source="DOID:10652" target="ENSP00000355747" />
+    <edge source="DOID:10652" target="ENSP00000356607" />
+    <edge source="DOID:10652" target="ENSP00000363827" />
+    <edge source="DOID:10652" target="ENSP00000377195" />
+    <edge source="DOID:10652" target="ENSP00000381448" />
+    <edge source="DOID:10652" target="ENSP00000385675" />
+    <edge source="DOID:10652" target="ENSP00000406022" />
+    <edge source="DOID:10652" target="ENSP00000450540" />
+    <edge source="DOID:10652" target="ENSP00000500990" />
+    <edge source="ENSP00000222330" target="DOID:0014667" />
+    <edge source="ENSP00000222330" target="DOID:0081062" />
+    <edge source="ENSP00000222330" target="DOID:1289" />
+    <edge source="ENSP00000222330" target="DOID:2978" />
+    <edge source="ENSP00000236671" target="DOID:0014667" />
+    <edge source="ENSP00000236671" target="DOID:0050177" />
+    <edge source="ENSP00000236671" target="DOID:0050737" />
+    <edge source="ENSP00000236671" target="DOID:0050739" />
+    <edge source="ENSP00000252486" target="AmyCo:16" />
+    <edge source="ENSP00000252486" target="AmyCo:22" />
+    <edge source="ENSP00000252486" target="AmyCo:23" />
+    <edge source="ENSP00000252486" target="AmyCo:24" />
+    <edge source="ENSP00000252486" target="AmyCo:25" />
+    <edge source="ENSP00000255040" target="AmyCo:16" />
+    <edge source="ENSP00000255040" target="AmyCo:17" />
+    <edge source="ENSP00000255040" target="AmyCo:22" />
+    <edge source="ENSP00000255040" target="AmyCo:23" />
+    <edge source="ENSP00000255040" target="AmyCo:24" />
+    <edge source="ENSP00000260197" target="DOID:0014667" />
+    <edge source="ENSP00000260197" target="DOID:1289" />
+    <edge source="ENSP00000260197" target="DOID:331" />
+    <edge source="ENSP00000260408" target="DOID:0014667" />
+    <edge source="ENSP00000260408" target="DOID:1289" />
+    <edge source="ENSP00000260408" target="DOID:331" />
+    <edge source="ENSP00000263094" target="DOID:0014667" />
+    <edge source="ENSP00000263094" target="DOID:1289" />
+    <edge source="ENSP00000263094" target="DOID:331" />
+    <edge source="ENSP00000284981" target="DOID:0014667" />
+    <edge source="ENSP00000284981" target="DOID:0050177" />
+    <edge source="ENSP00000315130" target="DOID:0014667" />
+    <edge source="ENSP00000315130" target="DOID:0050155" />
+    <edge source="ENSP00000315130" target="DOID:0050177" />
+    <edge source="ENSP00000323929" target="AmyCo:33" />
+    <edge source="ENSP00000323929" target="DOID:0014667" />
+    <edge source="ENSP00000323929" target="DOID:1289" />
+    <edge source="ENSP00000323929" target="DOID:17" />
+    <edge source="ENSP00000324806" target="DOID:0014667" />
+    <edge source="ENSP00000324806" target="DOID:0081062" />
+    <edge source="ENSP00000324806" target="DOID:1289" />
+    <edge source="ENSP00000324806" target="DOID:2978" />
+    <edge source="ENSP00000326366" target="DOID:0014667" />
+    <edge source="ENSP00000326366" target="DOID:0050700" />
+    <edge source="ENSP00000326366" target="DOID:0060036" />
+    <edge source="ENSP00000340820" target="DOID:0050156" />
+    <edge source="ENSP00000340820" target="DOID:0050161" />
+    <edge source="ENSP00000340820" target="DOID:0050890" />
+    <edge source="ENSP00000345672" target="DOID:1289" />
+    <edge source="ENSP00000345672" target="DOID:331" />
+    <edge source="ENSP00000345672" target="DOID:4" />
+    <edge source="ENSP00000345672" target="DOID:680" />
+    <edge source="ENSP00000354687" target="DOID:0014667" />
+    <edge source="ENSP00000354687" target="DOID:0060536" />
+    <edge source="ENSP00000354687" target="DOID:0080000" />
+    <edge source="ENSP00000355046" target="DOID:0014667" />
+    <edge source="ENSP00000355046" target="DOID:0060536" />
+    <edge source="ENSP00000355747" target="DOID:0014667" />
+    <edge source="ENSP00000355747" target="DOID:0050700" />
+    <edge source="ENSP00000355747" target="DOID:0060036" />
+    <edge source="ENSP00000356607" target="DOID:1289" />
+    <edge source="ENSP00000356607" target="DOID:331" />
+    <edge source="ENSP00000356607" target="DOID:4" />
+    <edge source="ENSP00000356607" target="DOID:680" />
+    <edge source="ENSP00000363827" target="AmyCo:29" />
+    <edge source="ENSP00000363827" target="AmyCo:8" />
+    <edge source="ENSP00000363827" target="DOID:0014667" />
+    <edge source="ENSP00000377195" target="DOID:0014667" />
+    <edge source="ENSP00000377195" target="DOID:1289" />
+    <edge source="ENSP00000377195" target="DOID:331" />
+    <edge source="ENSP00000381448" target="DOID:0014667" />
+    <edge source="ENSP00000385675" target="DOID:0014667" />
+    <edge source="ENSP00000385675" target="DOID:0060005" />
+    <edge source="ENSP00000385675" target="DOID:0060032" />
+    <edge source="ENSP00000385675" target="DOID:0080001" />
+    <edge source="ENSP00000385675" target="DOID:0081062" />
+    <edge source="ENSP00000406022" target="DOID:0014667" />
+    <edge source="ENSP00000406022" target="DOID:1289" />
+    <edge source="ENSP00000406022" target="DOID:331" />
+    <edge source="ENSP00000450540" target="DOID:0014667" />
+    <edge source="ENSP00000450540" target="DOID:0050177" />
+    <edge source="ENSP00000500990" target="DOID:0050890" />
+  </graph>
+</graphml>

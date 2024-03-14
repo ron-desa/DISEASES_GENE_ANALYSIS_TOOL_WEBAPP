@@ -1,0 +1,559 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d2" for="node" attr.name="disease_name" attr.type="string" />
+  <key id="d1" for="node" attr.name="gene_name" attr.type="string" />
+  <key id="d0" for="node" attr.name="node_type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="ENSP00000203407">
+      <data key="d0">gene</data>
+      <data key="d1">UQCRC1</data>
+    </node>
+    <node id="DOID:14330">
+      <data key="d0">disease</data>
+      <data key="d2">Parkinson's disease</data>
+    </node>
+    <node id="ENSP00000235521">
+      <data key="d0">gene</data>
+      <data key="d1">WARS2</data>
+    </node>
+    <node id="ENSP00000258080">
+      <data key="d0">gene</data>
+      <data key="d1">HTRA2</data>
+    </node>
+    <node id="ENSP00000260818">
+      <data key="d0">gene</data>
+      <data key="d1">DNAJC13</data>
+    </node>
+    <node id="ENSP00000261367">
+      <data key="d0">gene</data>
+      <data key="d1">SNCAIP</data>
+    </node>
+    <node id="ENSP00000264335">
+      <data key="d0">gene</data>
+      <data key="d1">YWHAE</data>
+    </node>
+    <node id="ENSP00000264771">
+      <data key="d0">gene</data>
+      <data key="d1">TMEM175</data>
+    </node>
+    <node id="ENSP00000266087">
+      <data key="d0">gene</data>
+      <data key="d1">FBXO7</data>
+    </node>
+    <node id="ENSP00000270349">
+      <data key="d0">gene</data>
+      <data key="d1">SLC6A3</data>
+    </node>
+    <node id="ENSP00000284440">
+      <data key="d0">gene</data>
+      <data key="d1">UCHL1</data>
+    </node>
+    <node id="ENSP00000296755">
+      <data key="d0">gene</data>
+      <data key="d1">MAP1B</data>
+    </node>
+    <node id="ENSP00000298910">
+      <data key="d0">gene</data>
+      <data key="d1">LRRK2</data>
+    </node>
+    <node id="ENSP00000299138">
+      <data key="d0">gene</data>
+      <data key="d1">VPS35</data>
+    </node>
+    <node id="ENSP00000306330">
+      <data key="d0">gene</data>
+      <data key="d1">YWHAG</data>
+    </node>
+    <node id="ENSP00000310873">
+      <data key="d0">gene</data>
+      <data key="d1">COQ2</data>
+    </node>
+    <node id="ENSP00000314508">
+      <data key="d0">gene</data>
+      <data key="d1">GBA</data>
+    </node>
+    <node id="ENSP00000318176">
+      <data key="d0">gene</data>
+      <data key="d1">PRKRA</data>
+    </node>
+    <node id="ENSP00000327214">
+      <data key="d0">gene</data>
+      <data key="d1">ATP13A2</data>
+    </node>
+    <node id="ENSP00000333142">
+      <data key="d0">gene</data>
+      <data key="d1">PLA2G6</data>
+    </node>
+    <node id="ENSP00000340278">
+      <data key="d0">gene</data>
+      <data key="d1">PARK7</data>
+    </node>
+    <node id="ENSP00000340820">
+      <data key="d0">gene</data>
+      <data key="d1">MAPT</data>
+    </node>
+    <node id="ENSP00000341364">
+      <data key="d0">gene</data>
+      <data key="d1">TMEM230</data>
+    </node>
+    <node id="ENSP00000344479">
+      <data key="d0">gene</data>
+      <data key="d1">NR4A2</data>
+    </node>
+    <node id="ENSP00000354791">
+      <data key="d0">gene</data>
+      <data key="d1">DCTN1</data>
+    </node>
+    <node id="ENSP00000355865">
+      <data key="d0">gene</data>
+      <data key="d1">PRKN</data>
+    </node>
+    <node id="ENSP00000355893">
+      <data key="d0">gene</data>
+      <data key="d1">SLC30A10</data>
+    </node>
+    <node id="ENSP00000358466">
+      <data key="d0">gene</data>
+      <data key="d1">RAB39B</data>
+    </node>
+    <node id="ENSP00000360108">
+      <data key="d0">gene</data>
+      <data key="d1">DNAJC6</data>
+    </node>
+    <node id="ENSP00000364204">
+      <data key="d0">gene</data>
+      <data key="d1">PINK1</data>
+    </node>
+    <node id="ENSP00000368678">
+      <data key="d0">gene</data>
+      <data key="d1">AGRN</data>
+    </node>
+    <node id="ENSP00000370571">
+      <data key="d0">gene</data>
+      <data key="d1">TH</data>
+    </node>
+    <node id="ENSP00000370635">
+      <data key="d0">gene</data>
+      <data key="d1">SLC39A14</data>
+    </node>
+    <node id="ENSP00000371267">
+      <data key="d0">gene</data>
+      <data key="d1">YWHAQ</data>
+    </node>
+    <node id="ENSP00000378394">
+      <data key="d0">gene</data>
+      <data key="d1">PSAP</data>
+    </node>
+    <node id="ENSP00000378812">
+      <data key="d0">gene</data>
+      <data key="d1">CHCHD2</data>
+    </node>
+    <node id="ENSP00000379287">
+      <data key="d0">gene</data>
+      <data key="d1">YWHAZ</data>
+    </node>
+    <node id="ENSP00000387170">
+      <data key="d0">gene</data>
+      <data key="d1">GIGYF2</data>
+    </node>
+    <node id="ENSP00000406549">
+      <data key="d0">gene</data>
+      <data key="d1">TAF1</data>
+    </node>
+    <node id="ENSP00000409667">
+      <data key="d0">gene</data>
+      <data key="d1">SYNJ1</data>
+    </node>
+    <node id="ENSP00000416255">
+      <data key="d0">gene</data>
+      <data key="d1">EIF4G1</data>
+    </node>
+    <node id="ENSP00000444688">
+      <data key="d0">gene</data>
+      <data key="d1">ATP1A3</data>
+    </node>
+    <node id="ENSP00000446576">
+      <data key="d0">gene</data>
+      <data key="d1">ATXN2</data>
+    </node>
+    <node id="ENSP00000477796">
+      <data key="d0">gene</data>
+      <data key="d1">GCH1</data>
+    </node>
+    <node id="ENSP00000490083">
+      <data key="d0">gene</data>
+      <data key="d1">ATP6AP2</data>
+    </node>
+    <node id="ENSP00000493560">
+      <data key="d0">gene</data>
+      <data key="d1">VPS13C</data>
+    </node>
+    <node id="ENSP00000495860">
+      <data key="d0">gene</data>
+      <data key="d1">TRPM7</data>
+    </node>
+    <node id="ENSP00000496339">
+      <data key="d0">gene</data>
+      <data key="d1">SLC18A2</data>
+    </node>
+    <node id="ENSP00000500990">
+      <data key="d0">gene</data>
+      <data key="d1">SNCA</data>
+    </node>
+    <node id="DOID:0050890">
+      <data key="d0">disease</data>
+      <data key="d2">Synucleinopathy</data>
+    </node>
+    <node id="DOID:1289">
+      <data key="d0">disease</data>
+      <data key="d2">Neurodegenerative disease</data>
+    </node>
+    <node id="DOID:331">
+      <data key="d0">disease</data>
+      <data key="d2">Central nervous system disease</data>
+    </node>
+    <node id="DOID:4">
+      <data key="d0">disease</data>
+      <data key="d2">Disease</data>
+    </node>
+    <node id="DOID:1826">
+      <data key="d0">disease</data>
+      <data key="d2">Epilepsy</data>
+    </node>
+    <node id="DOID:0050177">
+      <data key="d0">disease</data>
+      <data key="d2">Monogenic disease</data>
+    </node>
+    <node id="DOID:0050736">
+      <data key="d0">disease</data>
+      <data key="d2">Autosomal dominant disease</data>
+    </node>
+    <node id="DOID:0050739">
+      <data key="d0">disease</data>
+      <data key="d2">Autosomal genetic disease</data>
+    </node>
+    <node id="DOID:0060469">
+      <data key="d0">disease</data>
+      <data key="d2">Miller-Dieker lissencephaly syndrome</data>
+    </node>
+    <node id="DOID:150">
+      <data key="d0">disease</data>
+      <data key="d2">Disease of mental health</data>
+    </node>
+    <node id="DOID:0050155">
+      <data key="d0">disease</data>
+      <data key="d2">Sensory system disease</data>
+    </node>
+    <node id="DOID:0050563">
+      <data key="d0">disease</data>
+      <data key="d2">Nonsyndromic deafness</data>
+    </node>
+    <node id="DOID:0050589">
+      <data key="d0">disease</data>
+      <data key="d2">Inflammatory bowel disease</data>
+    </node>
+    <node id="DOID:0014667">
+      <data key="d0">disease</data>
+      <data key="d2">Disease of metabolism</data>
+    </node>
+    <node id="DOID:0050730">
+      <data key="d0">disease</data>
+      <data key="d2">Coenzyme Q10 deficiency disease</data>
+    </node>
+    <node id="DOID:12217">
+      <data key="d0">disease</data>
+      <data key="d2">Lewy body dementia</data>
+    </node>
+    <node id="DOID:0050737">
+      <data key="d0">disease</data>
+      <data key="d2">Autosomal recessive disease</data>
+    </node>
+    <node id="DOID:0050837">
+      <data key="d0">disease</data>
+      <data key="d2">Multifocal dystonia</data>
+    </node>
+    <node id="DOID:0050687">
+      <data key="d0">disease</data>
+      <data key="d2">Cell type cancer</data>
+    </node>
+    <node id="DOID:0050156">
+      <data key="d0">disease</data>
+      <data key="d2">Idiopathic pulmonary fibrosis</data>
+    </node>
+    <node id="DOID:0050161">
+      <data key="d0">disease</data>
+      <data key="d2">Lower respiratory tract disease</data>
+    </node>
+    <node id="DOID:10652">
+      <data key="d0">disease</data>
+      <data key="d2">Alzheimer's disease</data>
+    </node>
+    <node id="DOID:0060486">
+      <data key="d0">disease</data>
+      <data key="d2">Perry syndrome</data>
+    </node>
+    <node id="DOID:0050117">
+      <data key="d0">disease</data>
+      <data key="d2">Disease by infectious agent</data>
+    </node>
+    <node id="DOID:0050338">
+      <data key="d0">disease</data>
+      <data key="d2">Primary bacterial infectious disease</data>
+    </node>
+    <node id="DOID:0050615">
+      <data key="d0">disease</data>
+      <data key="d2">Respiratory system cancer</data>
+    </node>
+    <node id="DOID:0050686">
+      <data key="d0">disease</data>
+      <data key="d2">Organ system cancer</data>
+    </node>
+    <node id="DOID:0080535">
+      <data key="d0">disease</data>
+      <data key="d2">Hypermanganesemia with dystonia</data>
+    </node>
+    <node id="DOID:11949">
+      <data key="d0">disease</data>
+      <data key="d2">Creutzfeldt-Jakob disease</data>
+    </node>
+    <node id="DOID:0050735">
+      <data key="d0">disease</data>
+      <data key="d2">X-linked monogenic disease</data>
+    </node>
+    <node id="DOID:0050836">
+      <data key="d0">disease</data>
+      <data key="d2">Focal dystonia</data>
+    </node>
+    <node id="DOID:0080012">
+      <data key="d0">disease</data>
+      <data key="d2">X-linked recessive disease</data>
+    </node>
+    <node id="DOID:0050635">
+      <data key="d0">disease</data>
+      <data key="d2">Alternating hemiplegia of childhood</data>
+    </node>
+    <node id="DOID:10969">
+      <data key="d0">disease</data>
+      <data key="d2">Hemiplegia</data>
+    </node>
+    <node id="DOID:0080015">
+      <data key="d0">disease</data>
+      <data key="d2">Physical disorder</data>
+    </node>
+    <edge source="ENSP00000203407" target="DOID:14330" />
+    <edge source="ENSP00000203407" target="DOID:0050890" />
+    <edge source="ENSP00000203407" target="DOID:1289" />
+    <edge source="ENSP00000203407" target="DOID:331" />
+    <edge source="ENSP00000203407" target="DOID:4" />
+    <edge source="DOID:14330" target="ENSP00000235521" />
+    <edge source="DOID:14330" target="ENSP00000258080" />
+    <edge source="DOID:14330" target="ENSP00000260818" />
+    <edge source="DOID:14330" target="ENSP00000261367" />
+    <edge source="DOID:14330" target="ENSP00000264335" />
+    <edge source="DOID:14330" target="ENSP00000264771" />
+    <edge source="DOID:14330" target="ENSP00000266087" />
+    <edge source="DOID:14330" target="ENSP00000270349" />
+    <edge source="DOID:14330" target="ENSP00000284440" />
+    <edge source="DOID:14330" target="ENSP00000296755" />
+    <edge source="DOID:14330" target="ENSP00000298910" />
+    <edge source="DOID:14330" target="ENSP00000299138" />
+    <edge source="DOID:14330" target="ENSP00000306330" />
+    <edge source="DOID:14330" target="ENSP00000310873" />
+    <edge source="DOID:14330" target="ENSP00000314508" />
+    <edge source="DOID:14330" target="ENSP00000318176" />
+    <edge source="DOID:14330" target="ENSP00000327214" />
+    <edge source="DOID:14330" target="ENSP00000333142" />
+    <edge source="DOID:14330" target="ENSP00000340278" />
+    <edge source="DOID:14330" target="ENSP00000340820" />
+    <edge source="DOID:14330" target="ENSP00000341364" />
+    <edge source="DOID:14330" target="ENSP00000344479" />
+    <edge source="DOID:14330" target="ENSP00000354791" />
+    <edge source="DOID:14330" target="ENSP00000355865" />
+    <edge source="DOID:14330" target="ENSP00000355893" />
+    <edge source="DOID:14330" target="ENSP00000358466" />
+    <edge source="DOID:14330" target="ENSP00000360108" />
+    <edge source="DOID:14330" target="ENSP00000364204" />
+    <edge source="DOID:14330" target="ENSP00000368678" />
+    <edge source="DOID:14330" target="ENSP00000370571" />
+    <edge source="DOID:14330" target="ENSP00000370635" />
+    <edge source="DOID:14330" target="ENSP00000371267" />
+    <edge source="DOID:14330" target="ENSP00000378394" />
+    <edge source="DOID:14330" target="ENSP00000378812" />
+    <edge source="DOID:14330" target="ENSP00000379287" />
+    <edge source="DOID:14330" target="ENSP00000387170" />
+    <edge source="DOID:14330" target="ENSP00000406549" />
+    <edge source="DOID:14330" target="ENSP00000409667" />
+    <edge source="DOID:14330" target="ENSP00000416255" />
+    <edge source="DOID:14330" target="ENSP00000444688" />
+    <edge source="DOID:14330" target="ENSP00000446576" />
+    <edge source="DOID:14330" target="ENSP00000477796" />
+    <edge source="DOID:14330" target="ENSP00000490083" />
+    <edge source="DOID:14330" target="ENSP00000493560" />
+    <edge source="DOID:14330" target="ENSP00000495860" />
+    <edge source="DOID:14330" target="ENSP00000496339" />
+    <edge source="DOID:14330" target="ENSP00000500990" />
+    <edge source="ENSP00000235521" target="DOID:0050890" />
+    <edge source="ENSP00000235521" target="DOID:1289" />
+    <edge source="ENSP00000235521" target="DOID:331" />
+    <edge source="ENSP00000235521" target="DOID:4" />
+    <edge source="ENSP00000258080" target="DOID:0050890" />
+    <edge source="ENSP00000258080" target="DOID:1289" />
+    <edge source="ENSP00000258080" target="DOID:1826" />
+    <edge source="ENSP00000260818" target="DOID:0050890" />
+    <edge source="ENSP00000260818" target="DOID:1289" />
+    <edge source="ENSP00000260818" target="DOID:331" />
+    <edge source="ENSP00000261367" target="DOID:0050890" />
+    <edge source="ENSP00000261367" target="DOID:1289" />
+    <edge source="ENSP00000264335" target="DOID:0050177" />
+    <edge source="ENSP00000264335" target="DOID:0050736" />
+    <edge source="ENSP00000264335" target="DOID:0050739" />
+    <edge source="ENSP00000264335" target="DOID:0050890" />
+    <edge source="ENSP00000264335" target="DOID:0060469" />
+    <edge source="ENSP00000264771" target="DOID:0050890" />
+    <edge source="ENSP00000264771" target="DOID:1289" />
+    <edge source="ENSP00000264771" target="DOID:331" />
+    <edge source="ENSP00000266087" target="DOID:0050890" />
+    <edge source="ENSP00000266087" target="DOID:1289" />
+    <edge source="ENSP00000266087" target="DOID:331" />
+    <edge source="ENSP00000270349" target="DOID:0050890" />
+    <edge source="ENSP00000270349" target="DOID:1289" />
+    <edge source="ENSP00000270349" target="DOID:150" />
+    <edge source="ENSP00000284440" target="DOID:0050890" />
+    <edge source="ENSP00000284440" target="DOID:1289" />
+    <edge source="ENSP00000296755" target="DOID:0050155" />
+    <edge source="ENSP00000296755" target="DOID:0050563" />
+    <edge source="ENSP00000296755" target="DOID:0050890" />
+    <edge source="ENSP00000296755" target="DOID:1289" />
+    <edge source="ENSP00000298910" target="DOID:0050589" />
+    <edge source="ENSP00000298910" target="DOID:0050890" />
+    <edge source="ENSP00000298910" target="DOID:1289" />
+    <edge source="ENSP00000299138" target="DOID:0050890" />
+    <edge source="ENSP00000299138" target="DOID:1289" />
+    <edge source="ENSP00000306330" target="DOID:0050890" />
+    <edge source="ENSP00000306330" target="DOID:1289" />
+    <edge source="ENSP00000306330" target="DOID:1826" />
+    <edge source="ENSP00000306330" target="DOID:331" />
+    <edge source="ENSP00000310873" target="DOID:0014667" />
+    <edge source="ENSP00000310873" target="DOID:0050730" />
+    <edge source="ENSP00000310873" target="DOID:0050890" />
+    <edge source="ENSP00000310873" target="DOID:1289" />
+    <edge source="ENSP00000314508" target="DOID:0014667" />
+    <edge source="ENSP00000314508" target="DOID:0050890" />
+    <edge source="ENSP00000314508" target="DOID:12217" />
+    <edge source="ENSP00000318176" target="DOID:0050177" />
+    <edge source="ENSP00000318176" target="DOID:0050737" />
+    <edge source="ENSP00000318176" target="DOID:0050739" />
+    <edge source="ENSP00000318176" target="DOID:0050837" />
+    <edge source="ENSP00000318176" target="DOID:0050890" />
+    <edge source="ENSP00000327214" target="DOID:0014667" />
+    <edge source="ENSP00000327214" target="DOID:0050890" />
+    <edge source="ENSP00000327214" target="DOID:1289" />
+    <edge source="ENSP00000333142" target="DOID:0050177" />
+    <edge source="ENSP00000333142" target="DOID:0050687" />
+    <edge source="ENSP00000333142" target="DOID:0050737" />
+    <edge source="ENSP00000333142" target="DOID:0050739" />
+    <edge source="ENSP00000333142" target="DOID:0050890" />
+    <edge source="ENSP00000340278" target="DOID:0050890" />
+    <edge source="ENSP00000340278" target="DOID:1289" />
+    <edge source="ENSP00000340820" target="DOID:0050156" />
+    <edge source="ENSP00000340820" target="DOID:0050161" />
+    <edge source="ENSP00000340820" target="DOID:0050890" />
+    <edge source="ENSP00000340820" target="DOID:10652" />
+    <edge source="ENSP00000341364" target="DOID:0050890" />
+    <edge source="ENSP00000341364" target="DOID:1289" />
+    <edge source="ENSP00000341364" target="DOID:331" />
+    <edge source="ENSP00000344479" target="DOID:0050890" />
+    <edge source="ENSP00000344479" target="DOID:1289" />
+    <edge source="ENSP00000344479" target="DOID:331" />
+    <edge source="ENSP00000344479" target="DOID:4" />
+    <edge source="ENSP00000354791" target="DOID:0050177" />
+    <edge source="ENSP00000354791" target="DOID:0050736" />
+    <edge source="ENSP00000354791" target="DOID:0050739" />
+    <edge source="ENSP00000354791" target="DOID:0050890" />
+    <edge source="ENSP00000354791" target="DOID:0060486" />
+    <edge source="ENSP00000355865" target="DOID:0050117" />
+    <edge source="ENSP00000355865" target="DOID:0050161" />
+    <edge source="ENSP00000355865" target="DOID:0050338" />
+    <edge source="ENSP00000355865" target="DOID:0050615" />
+    <edge source="ENSP00000355865" target="DOID:0050686" />
+    <edge source="ENSP00000355893" target="DOID:0014667" />
+    <edge source="ENSP00000355893" target="DOID:0050890" />
+    <edge source="ENSP00000355893" target="DOID:0080535" />
+    <edge source="ENSP00000355893" target="DOID:1289" />
+    <edge source="ENSP00000358466" target="DOID:0050890" />
+    <edge source="ENSP00000358466" target="DOID:1289" />
+    <edge source="ENSP00000358466" target="DOID:331" />
+    <edge source="ENSP00000358466" target="DOID:4" />
+    <edge source="ENSP00000360108" target="DOID:0050890" />
+    <edge source="ENSP00000360108" target="DOID:1289" />
+    <edge source="ENSP00000360108" target="DOID:331" />
+    <edge source="ENSP00000364204" target="DOID:0050890" />
+    <edge source="ENSP00000364204" target="DOID:1289" />
+    <edge source="ENSP00000368678" target="DOID:0014667" />
+    <edge source="ENSP00000368678" target="DOID:0050177" />
+    <edge source="ENSP00000368678" target="DOID:0050736" />
+    <edge source="ENSP00000370571" target="DOID:0050890" />
+    <edge source="ENSP00000370571" target="DOID:1289" />
+    <edge source="ENSP00000370571" target="DOID:331" />
+    <edge source="ENSP00000370571" target="DOID:4" />
+    <edge source="ENSP00000370635" target="DOID:0014667" />
+    <edge source="ENSP00000370635" target="DOID:0050890" />
+    <edge source="ENSP00000370635" target="DOID:0080535" />
+    <edge source="ENSP00000370635" target="DOID:1289" />
+    <edge source="ENSP00000371267" target="DOID:0050890" />
+    <edge source="ENSP00000371267" target="DOID:1289" />
+    <edge source="ENSP00000371267" target="DOID:331" />
+    <edge source="ENSP00000371267" target="DOID:4" />
+    <edge source="ENSP00000378394" target="DOID:0014667" />
+    <edge source="ENSP00000378394" target="DOID:0050177" />
+    <edge source="ENSP00000378394" target="DOID:0050737" />
+    <edge source="ENSP00000378394" target="DOID:0050739" />
+    <edge source="ENSP00000378812" target="DOID:0050890" />
+    <edge source="ENSP00000378812" target="DOID:1289" />
+    <edge source="ENSP00000378812" target="DOID:331" />
+    <edge source="ENSP00000379287" target="DOID:0050890" />
+    <edge source="ENSP00000379287" target="DOID:11949" />
+    <edge source="ENSP00000379287" target="DOID:1289" />
+    <edge source="ENSP00000379287" target="DOID:331" />
+    <edge source="ENSP00000387170" target="DOID:0050890" />
+    <edge source="ENSP00000387170" target="DOID:1289" />
+    <edge source="ENSP00000387170" target="DOID:331" />
+    <edge source="ENSP00000406549" target="DOID:0050177" />
+    <edge source="ENSP00000406549" target="DOID:0050735" />
+    <edge source="ENSP00000406549" target="DOID:0050836" />
+    <edge source="ENSP00000406549" target="DOID:0050890" />
+    <edge source="ENSP00000406549" target="DOID:0080012" />
+    <edge source="ENSP00000409667" target="DOID:0050890" />
+    <edge source="ENSP00000409667" target="DOID:1289" />
+    <edge source="ENSP00000409667" target="DOID:1826" />
+    <edge source="ENSP00000416255" target="DOID:0050890" />
+    <edge source="ENSP00000416255" target="DOID:1289" />
+    <edge source="ENSP00000416255" target="DOID:331" />
+    <edge source="ENSP00000444688" target="DOID:0050635" />
+    <edge source="ENSP00000444688" target="DOID:0050890" />
+    <edge source="ENSP00000444688" target="DOID:10969" />
+    <edge source="ENSP00000444688" target="DOID:1289" />
+    <edge source="ENSP00000446576" target="DOID:0050177" />
+    <edge source="ENSP00000446576" target="DOID:0050736" />
+    <edge source="ENSP00000446576" target="DOID:0050739" />
+    <edge source="ENSP00000477796" target="DOID:0014667" />
+    <edge source="ENSP00000477796" target="DOID:0050890" />
+    <edge source="ENSP00000477796" target="DOID:1289" />
+    <edge source="ENSP00000477796" target="DOID:331" />
+    <edge source="ENSP00000490083" target="DOID:0014667" />
+    <edge source="ENSP00000490083" target="DOID:0050890" />
+    <edge source="ENSP00000490083" target="DOID:0080015" />
+    <edge source="ENSP00000490083" target="DOID:1289" />
+    <edge source="ENSP00000493560" target="DOID:0050890" />
+    <edge source="ENSP00000493560" target="DOID:1289" />
+    <edge source="ENSP00000493560" target="DOID:331" />
+    <edge source="ENSP00000495860" target="DOID:0050890" />
+    <edge source="ENSP00000495860" target="DOID:1289" />
+    <edge source="ENSP00000496339" target="DOID:0050890" />
+    <edge source="ENSP00000496339" target="DOID:1289" />
+    <edge source="ENSP00000496339" target="DOID:331" />
+    <edge source="ENSP00000496339" target="DOID:4" />
+    <edge source="ENSP00000500990" target="DOID:0050890" />
+    <edge source="ENSP00000500990" target="DOID:10652" />
+  </graph>
+</graphml>

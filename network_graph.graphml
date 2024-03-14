@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d2" for="node" attr.name="disease_name" attr.type="string" />
+  <key id="d1" for="node" attr.name="gene_name" attr.type="string" />
+  <key id="d0" for="node" attr.name="node_type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="ENSP00000261769">
+      <data key="d0">gene</data>
+      <data key="d1">CDH1</data>
+    </node>
+    <node id="DOID:10534">
+      <data key="d0">disease</data>
+      <data key="d2">Stomach cancer</data>
+    </node>
+    <node id="ENSP00000304669">
+      <data key="d0">gene</data>
+      <data key="d1">CTNNA1</data>
+    </node>
+    <node id="DOID:0050177">
+      <data key="d0">disease</data>
+      <data key="d2">Monogenic disease</data>
+    </node>
+    <node id="DOID:0050686">
+      <data key="d0">disease</data>
+      <data key="d2">Organ system cancer</data>
+    </node>
+    <node id="DOID:0050736">
+      <data key="d0">disease</data>
+      <data key="d2">Autosomal dominant disease</data>
+    </node>
+    <node id="DOID:0050739">
+      <data key="d0">disease</data>
+      <data key="d2">Autosomal genetic disease</data>
+    </node>
+    <node id="DOID:0080763">
+      <data key="d0">disease</data>
+      <data key="d2">Diffuse gastric cancer</data>
+    </node>
+    <edge source="ENSP00000261769" target="DOID:10534" />
+    <edge source="ENSP00000261769" target="DOID:0050177" />
+    <edge source="ENSP00000261769" target="DOID:0050686" />
+    <edge source="DOID:10534" target="ENSP00000304669" />
+    <edge source="ENSP00000304669" target="DOID:0050177" />
+    <edge source="ENSP00000304669" target="DOID:0050686" />
+    <edge source="ENSP00000304669" target="DOID:0050736" />
+    <edge source="ENSP00000304669" target="DOID:0050739" />
+    <edge source="ENSP00000304669" target="DOID:0080763" />
+  </graph>
+</graphml>

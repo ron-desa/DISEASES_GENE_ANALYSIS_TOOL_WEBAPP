@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import time
 
 # Path to the TSV file
-tsv_file_path = "/home/rounak/Desktop/human_disease_knowledge_full.tsv"
+tsv_file_path = "/home/rounak/Desktop/human_disease_experiments_full.tsv"
 
 # Define column headers
 column_headers = ['gene identifier', 'gene name', 'disease identifier', 'disease name', 'z-score', 'confidence score', 'URL']
@@ -85,6 +85,6 @@ nx.draw_networkx_labels(G, pos, labels=node_labels, font_size=8, font_color='ora
 plt.title('Gene-Disease Associations Network')
 plt.axis('off')
 plt.show()
-nx.write_graphml(G, 'network_graph.graphml')
-plt.savefig('network_graph.png')
+nx.write_graphml(G, 'PD_Experiments_network_graph.graphml')
+plt.savefig('PD_Experiments_network_graph.png')
 print(f"Time taken to draw network graph: {time.time() - start_time:.2f} seconds")
